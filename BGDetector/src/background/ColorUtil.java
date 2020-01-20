@@ -1,3 +1,8 @@
+/**
+ * @defgroup ColourMapping
+ * @author Jonathan Brown
+ *@{
+ */
 
 package background;
 
